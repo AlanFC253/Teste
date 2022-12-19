@@ -28,6 +28,18 @@ Lista 2:
 Lista 3:
 
 * Teste
-* Teste
+- Teste
    * Test
-* Test
+- Test
+
+
+Lista 4:
+
+- [x] Teste 1
+- [ ] Teste 2
+- [x] Teste 3
+
+
+
+
+
