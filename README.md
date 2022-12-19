@@ -24,3 +24,10 @@ Lista 2:
    1. Teste 2
 2. Teste 2
    1. Teste 2
+
+Lista 3:
+
+*Teste
+*Teste
+   *Test
+*Test
