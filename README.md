@@ -27,7 +27,7 @@ Lista 2:
 
 Lista 3:
 
-*Teste
-*Teste
-   *Test
-*Test
+* Teste
+* Teste
+   * Test
+* Test
